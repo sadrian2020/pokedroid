@@ -47,4 +47,4 @@ Buscamos el backup que generamos antes e instalamos.
 
 ![img](https://i.imgur.com/4SJlQhYl.png)
 
-Ahora Pokémon GO ya se habrá degradado con éxito y sin sufrir de una pérdida de datos. Para actualizaciones futuras ya no hay que utilizar Lucky Patcher, solamente manejar lo backups con SAI 😎
+Ahora Pokémon GO ya se habrá degradado con éxito y sin sufrir de una pérdida de datos. Para actualizaciones futuras ya no hay que utilizar Lucky Patcher, solamente manejar los backups con SAI 😎

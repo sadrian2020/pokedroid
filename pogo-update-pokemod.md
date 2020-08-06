@@ -18,7 +18,7 @@ Buscamos la aplicación de Pokémon GO, tocamos el botón "backup", seleccionamo
 
 Ahora ya tendremos guardado un respaldo que nos servirá cuando se actualice nuestro Pokémon GO.
 
-# Parchar Android para regresar a una versión anterior sin necesidad de desinstalar
+# Parchar Android para regresar una aplicación a una versión anterior sin necesidad de desinstalarla
 Desinstalar la aplicación de Pokémon GO resulta en pérdida de datos como nuestra condiguración de equipos de batalla y hay veces en que no
 lo recordamos y es tedioso volver a poner todo en su lugar. Para evitar hacer esto, descargaremos la aplicación Lucky Patcher desde su [sitio web](https://www.luckypatchers.com/download/). Una vez instalamos la aplicación, le damos permisos de superusuario
 e ingresamos a la sección "toolbox".

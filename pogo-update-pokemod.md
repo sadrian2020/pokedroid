@@ -3,7 +3,7 @@
 A diario vemos usuarios preguntando por una nueva actualización de Pokemod cuando hay una nueva actualización de Pokémon GO. Esto generalmente
 no ocurre rápido y para ello tenemos que regresar nuestra versión de Pokémon GO a una que funciona con Pokemod y hacerlo suele ser algo fastidioso. Para no
 tener problemas desinstalando nuestro Pokémon GO, que resulta en una pérdida de configuraciones de la app, como pérdida de los equipos de PvP
-y de counters para el Team Rocket y luego estar instalando la app de fuentes externas, podemos hacer unas cuantas cosas.
+y de counters para el Team Rocket y luego estar instalando la app de fuentes externas, podemos hacer unas cuantas cosas antes de que esto ocurra.
 
 # Hacer un backup
 Hacer un backup es buena idea para no tener que realizar descargas del apk desde fuentes externas. También así nos ahorraremos tiempo

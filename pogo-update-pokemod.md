@@ -1,7 +1,7 @@
 ## Tips para resolver problemas de actualización de Pokémon GO (Pokemod tip)
 
 A diario vemos usuarios preguntando por una nueva actualización de Pokemod cuando hay una nueva actualización de Pokémon GO. Esto generalmente
-no ocurre rápido y para ello tenemos que regresar nuestra versión de Pokémon GO y hacerlo suele ser algo fastidioso. Para no
+no ocurre rápido y para ello tenemos que regresar nuestra versión de Pokémon GO a una que funciona con Pokemod y hacerlo suele ser algo fastidioso. Para no
 tener problemas desinstalando nuestro Pokémon GO, que resulta en una pérdida de configuraciones de la app, como pérdida de los equipos de PvP
 y de counters para el Team Rocket y luego estar instalando la app de fuentes externas, podemos hacer unas cuantas cosas.
 
@@ -37,10 +37,14 @@ Ahora, cuando nuestro Pokémon GO se haya actualizado, podremos regresar a una v
 # Pokemon GO se ha actualizado y Pokemod ya no funciona
 Si estás cansado se desinstalar Pokémon GO e instalar una versión vieja que requiere de varias cosas molestas que hacer, de ahora en más podremos poner en práctica lo siguiente.
 
-Ingresar a SAI
+Ingresar a SAI y tocar la opción "Install APKs"
 
-Tocar la opción "Installer"
+![img](https://i.imgur.com/V0wGkBOl.png)
 
 Buscamos el backup que generamos antes e instalamos.
 
-¡Felicidades! Ha degradado Pokémon GO con éxito y sin pérdida de datos :)
+![img](https://i.imgur.com/8HflAV5l.png)
+
+![img](https://i.imgur.com/4SJlQhYl.png)
+
+Ahora Pokémon GO ya se habrá degradado con éxito y sin sufrir de una pérdida de datos :)

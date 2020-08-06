@@ -10,11 +10,11 @@ Hacer un backup es buena idea para no tener que realizar descargas del apk desde
 para no buscar cuál versión es compatible con nuestro dispositivo y para ello descargaremos la aplicación [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai). Una
 vez instalada la app, ingresamos en la sección "backup"
 
-![img](https://i.imgur.com/v7kGC9Tm.png)
+![img](https://i.imgur.com/v7kGC9Tl.png)
 
 Buscamos la aplicación de Pokémon GO, tocamos el botón "backup", seleccionamos todas las casillas y guardamos el backup.
 
-![img](https://i.imgur.com/PQOaohym.png)
+![img](https://i.imgur.com/PQOaohyl.png)
 
 Ahora ya tendremos guardado un respaldo que nos servirá cuando se actualice nuestro Pokémon GO.
 
